@@ -18,6 +18,11 @@ Everything lives in `index.html` — HTML structure, CSS styles, and JavaScript 
 
 ## Git Workflow
 
-- Commit and push to GitHub after every meaningful change
-- GitHub repo: https://github.com/igorstoyanov/ai-test
-- Branch: `main`
+**Every change must be committed and pushed to GitHub — no exceptions.**
+
+- After completing any task or modification, stage the relevant files, create a commit, and push to `main`
+- Commit messages must be clear and descriptive: summarize *what* changed and *why* in the subject line (imperative mood, e.g. "Add win highlight animation" not "added stuff")
+- Never leave uncommitted changes at the end of a session
+- This ensures all work is preserved and any change can be reverted if needed
+
+**Repo:** https://github.com/igorstoyanov/ai-test — branch `main`
